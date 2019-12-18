@@ -1,0 +1,478 @@
+body{
+    background-color: #e5e4e4;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    
+}
+.icon{
+padding:0 0 20px 0;
+}
+.container{display: flex;
+            padding-top: 20px;
+
+}
+.buttons{
+        margin-left: auto;
+        /* padding-right: 1px; */
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        text-transform: uppercase;
+        color: #FF6200;
+        list-style: none;
+        
+}
+.head{background-color: #FF6200;
+        width: 150px;
+        text-align: center;
+        text-transform: uppercase;
+        padding: 10px;
+        color: #fff;
+        border-radius: 3px;
+        border-style: none;
+        margin-left:10px;
+        margin-bottom: 40px;
+}
+#bold{
+    width: auto;
+    height: 100px;
+    margin: 30px 0 0 70px;
+
+}
+
+a{text-decoration: none;
+    padding:10px ;
+    color: #FF6200;
+    font-weight: bold;
+
+}
+
+#Right{background-color:#144893 ;
+       padding-bottom: 20px;
+       width: 100%;
+       
+    
+}
+.Get{font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px; 
+    color: #fff;
+    padding:0 0 5px 70px; 
+}
+.skills{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #fff;
+    padding: 0 0 0 70px;
+    line-height: 1.6em;
+    font-weight: lighter;
+}
+
+.join{background-color: #fff;
+    width: 140px;
+    height: auto;
+    text-align: center;
+    color: #144893;
+    border-radius: 3px;
+    border-style: none;
+    margin-left: 70px;
+    box-shadow: 0 5px 5px 5px;
+    font-size: 15px;
+    
+}
+#home{
+    display:flex;
+    background-color:#0A2650 ;
+    padding:20px;
+    margin: 0 50px 20px 70px;
+    padding-bottom: 30px;
+    border-radius: 5px;
+    width: 75%;
+}
+
+.watch{display: flex;
+    padding-bottom: 20px;
+
+}
+
+.video{margin-left:15px;
+        color: #fff;
+        font-family: Arial, Helvetica, sans-serif;
+}
+#functions ,#industries, #locations {
+    width:50%; 
+    height: 35px;
+    border-radius: 3px;
+    border-style: none;
+    margin-left:10px ;
+    margin-top:20px;
+    padding-left: 10px;
+
+}
+#Search{
+    background-color: #FF6200;
+    width: 150px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 8px;
+    color: #fff;
+    border-radius: 3px;
+    border-style: none;
+    margin-left:10px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    font-weight: bold;
+
+}
+
+.employ{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+}
+
+.best{font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+    font-weight:lighter;
+    line-height: 1.5em;
+
+}
+.call{color: #FF6200;
+
+}
+.inner{
+    background-color: #FAFAFA;
+    padding-top: 10px;
+}
+.box{
+    width:1400px;
+    height: 350px;
+    background-color: #fff;
+    margin-left: 70px;
+    box-shadow:0 2px 4px #626161;
+    margin-bottom: 40px;
+    
+
+}
+.stand{text-align: center;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+
+}
+
+.how{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#4E5559 ;
+
+}
+
+#outbox{display: flex;
+    margin:0 150px 0 120px;
+    /* margin-right: 50px; */
+    
+
+}
+
+.find, .boost, .be{
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 18px;
+    color: #FF6200;
+    font-weight:lighter;
+}
+
+.searched, .maned, .stared{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: blue; */
+    padding-right: 90px;
+    color: #4E5559;
+}
+
+.get, .create, .access{
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 14px;
+    line-height: 1.5em;
+    font-weight: lighter;
+}
+
+
+.account{ background-color: #FF6200;
+         width: 280px;
+         height: 40px;
+        text-align: center;
+        text-transform: uppercase;
+        padding: 8px;
+        color: #fff;
+        border-radius: 3px;
+        border-style: none;
+        margin-left:550px;
+        margin-bottom: 40px;
+        margin-top: 80px;
+        
+ }
+
+ .top{ text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 100px;
+    
+ }
+
+ .brace{
+     display: flex;
+ }
+
+ .control, .market, .data, .sales, .admin,.manna
+    {background-color: #fff;
+    margin:10px 10px 10px 10px ;
+    width:800px;
+    height: 150px;
+    padding: 15px 5px 5px 5px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 1px 1px 3px 0;
+
+ }
+ .cool{
+     margin: 30px 0 30px 0;
+}
+ .low{display: flex;
+      margin-bottom: 50px;
+}
+.age,.office, .sell, .pin, .bank, .doc{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color: #4E5559;
+}
+.orange{
+    color: #144893;
+}
+.headin,.cool{
+    background-color: #FAFAFA;
+}
+
+.job{
+    width:1400px;
+    height: 200px;
+    background-color: #fff;
+    margin-left: 70px;
+    box-shadow:0 2px 4px #626161;
+    margin-bottom: 40px;
+    padding-top: 50px;
+
+}
+.now{font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.view{ background-color: #FF6200;
+    width: 220px;
+    height: 40px;
+   text-align: center;
+   text-transform: uppercase;
+   padding: 8px;
+   color: #fff;
+   border-radius: 3px;
+   border-style: none;
+   margin-left:600px;
+   margin-bottom: 40px;
+   margin-top: 10px;
+}
+
+.fun{text-align: center;
+    font-size:30px ;
+    color: #626161;
+
+}
+
+/* .function{ text-justify:  */
+
+/* } */
+
+.record{
+    display: flex;
+    padding-top: 10px;
+}
+
+.audit li{
+    padding-left: 60px;
+    list-style: none;
+    line-height: 2.5em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+}
+    
+.text{
+    color:#756c6c;
+
+    
+}
+a:hover{ color: #FF6200;
+
+}
+
+.none{
+    background-color:#F2F2F2;
+    padding-left: 50px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-top: 40px;
+}
+
+#stay{
+    padding-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+#submit{background-color: #FF6200;
+    width: 300px;
+    height: 40px;
+   text-align: center;
+   text-transform: uppercase;
+   padding: 8px;
+   color: #fff;
+   border-radius: 3px;
+   border-style: none;
+   margin-left:90px;
+   margin-bottom: 40px;
+   margin-top: 10px;
+
+}
+
+#fubu{
+    width:470px;
+    height: 35px;
+    border-radius: 3px;
+    border-style: none;
+    margin-left:10px ;
+    margin-top: 5px;
+    padding-left: 5px;
+
+}
+
+#rake{
+    background-color: #000000;
+    color: #FAFAFA;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    padding-top: 10px;
+}
+.nil{
+    display: flex;
+    list-style: none;
+    padding-left: 280px;
+
+    
+}
+.bill{
+    color: #fff;
+    padding-left:40px;
+    
+}
+#why{
+    color: #fff;
+    
+    
+    
+}
+.boldline{
+    background-color: #fff;
+    width: 1300px;
+        
+}
+a:hover{
+    color: #FF6200;
+}
+
+.around{
+    padding: 20px 20px 40px 20px;
+    /* border-width: 0 20px 0 20px; */
+    display: flex;
+    line-height: 30px;
+
+
+}
+.stay{
+    text-align: center;
+
+}
+
+.Niger{
+    padding-left:50px ;
+    padding-top: 50px;
+}
+
+.Niger ul li{
+   list-style: none;
+   padding-right: 20px;
+
+}
+.Sen{
+    padding-top: 50px;
+    padding-left:50px ;
+}
+
+.Sen ul li{
+   list-style: none;
+   padding-right: 20px;
+
+}
+
+.in{
+    padding-left:50px ;
+    padding-top: 50px;
+    color: #fff;
+    font-size: 12px;
+    
+}
+.in ul li{
+    list-style: none;
+    padding-right: 20px;
+}
+
+.kenya{
+
+        padding-left:50px ;
+        padding-top: 50px;
+}
+.kenya ul li{
+    list-style: none;
+    padding-right: 20px;
+}
+
+.africa{font-size:15px ;
+        /* padding-left:50px ; */
+
+}
+
+#bee{ 
+    padding-left: 100px;
+}
+#vee{ 
+    padding-left: 100px;
+}
+#copy{
+    padding-left: 1300px;
+    padding-bottom: 20px;
+}
+#play{
+    border-style: solid;
+    color: #FAFAFA;
+    border-radius:5px;
+    outline-width: 1px;
+
+    
+}
